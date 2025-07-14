@@ -35,4 +35,7 @@ docker-compose up --build
 - PostgreSQL database integration via Docker compose
 - Environment variable management using `.env` file
 
+## Link to video demo
+- An mp4 video demo is available showcasing the application in action.
+-[Video Demo](https://drive.google.com/drive/folders/1ewm39p5hiUGsNCmMkRV_vXczjjJnfVlw?usp=sharing)
 
