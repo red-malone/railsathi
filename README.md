@@ -24,13 +24,15 @@ cp .env.example .env
 ```bash
 docker-compose up --build
 ```
+
 ### 4. Access the Application
 
-- Open your browser and go to `http://localhost:5002/docs` to access the FastAPI documentation.
+- Open your browser and go to `http://localhost:5002/rs_microservice/docs` to access the FastAPI documentation.
 
 ## Key Features Implemented
 
 - Dockerized FastAPI application
 - PostgreSQL database integration via Docker compose
 - Environment variable management using `.env` file
+
 
